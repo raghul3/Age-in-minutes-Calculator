@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964355781211",
+    "project_id": "age-in-minutes-calculator",
+    "storage_bucket": "age-in-minutes-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964355781211:android:afaedfe3235f068833c57e",
+        "android_client_info": {
+          "package_name": "com.example.lifecalcy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964355781211-3k9u4keq0g1golrneb65olpa1rkvnv7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifecalcy",
+            "certificate_hash": "a15f39c5b9b922b86697031cce8aca5b6054b30c"
+          }
+        },
+        {
+          "client_id": "964355781211-qoas5l6a96tbu9jqtgpt3a9719omdhu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hrfcrJm19s_9q6kOX-kehIhuz9FXkwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964355781211-qoas5l6a96tbu9jqtgpt3a9719omdhu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
